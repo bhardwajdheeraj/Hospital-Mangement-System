@@ -1,1 +1,0 @@
-SELECT * FROM mydata.hospital_table;
